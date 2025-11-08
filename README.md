@@ -47,4 +47,4 @@ Feel free to fork the repository and submit pull requests. Suggestions and impro
 
 ---
 This calculator provides a simplified tax calculation for educational/demo purposes.  
-For accurate tax filing and details, always refer to official government resources or consult a tax professional.
+For accurate tax filing and details, it is suggested to refer to the official government resources or consult a tax professional.
